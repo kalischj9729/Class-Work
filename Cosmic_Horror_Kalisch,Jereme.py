@@ -1,3 +1,8 @@
+# Jereme Kalisch
+# 11/20/2024
+# HW
+# Cosmic Battler
+
 import random
 import time
 
